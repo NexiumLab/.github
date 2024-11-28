@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to NexiumLab's GitHub profile! 🚀
 
-We're a team of passionate web developers specializing in building innovative and cutting-edge web applications. 💻✨
+We're a team of passionate web developers specializing in building innovative and cutting-edge web applications. 💻
 
 💡 **Our Expertise:**
 
